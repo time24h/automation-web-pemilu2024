@@ -9,6 +9,10 @@
   "keywords": ["pemilu", "indonesia", "testing", "automation","playwright"],
   "author": "wira wardhana",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/time24h/automation-web-pemilu2024.git"
+  },
   "devDependencies": {
     "@playwright/test": "^1.41.2",
     "@types/node": "^20.11.19"
