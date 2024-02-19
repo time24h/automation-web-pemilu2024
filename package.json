@@ -1,12 +1,12 @@
 {
   "name": "pemilu-indonesia",
   "version": "1.0.0",
-  "description": "",
+  "description": "automation web pemilu2024 untuk mempermudah memperoleh hasil screenshot dalam tiap tps dalam 1 provinsi",
   "main": "index.js",
   "scripts": {
     "test" : "npx playwright test"
   },
-  "keywords": [],
+  "keywords": ["pemilu", "indonesia", "testing", "automation","playwright"],
   "author": "wira wardhana",
   "license": "ISC",
   "devDependencies": {
