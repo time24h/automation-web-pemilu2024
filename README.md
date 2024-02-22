@@ -47,6 +47,9 @@ Jika proses running telah selesai jangan khawatir dia akan membuat secara otomat
 
 Automation yang saya buat ini tentu masih banyak kekurangan, besar harapan semoga ini bisa bermanfaat, dan semoga bisa memudahkan teman-teman juga untuk langsung mengecek Screenshot keseluruhannya saja dalam setiap provinsi yang dipilih tanpa perlu mengklik tiap component secara manual.
 
+[updated videos] : [Here](https://1drv.ms/v/s!AqPVUh6ru5PhjmnIl2fuTqQXX_sB?e=ucoQKY)
+
+
 Semoga Bermanfaat 🙂
 Dan mohon maaf bila ada kesalahan dan kekurangan
 
